@@ -4,6 +4,7 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
+  m_hash = {favourite_day:"Friday"}
 end
 
 def pioneer
